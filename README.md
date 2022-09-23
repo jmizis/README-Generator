@@ -13,6 +13,8 @@ For this challenge we needed to add the option for the user to select what licen
 ## Github 
 
 On Github I was able to create a new repository where I was able to push all my work to. Before even starting the challenge I had to clone the new repository to the my computer first. I cloned it using my gitbash, from there on any code I worked on visual studio code I was able to save it and push it back to my repository. Once all my work was done I did a final push. 
+![Screenshot (9)](https://user-images.githubusercontent.com/107073756/191883834-2b26e7bf-bd62-4d6c-9b57-3387bec827a1.png)
+
 
 
 
